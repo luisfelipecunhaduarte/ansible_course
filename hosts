@@ -1,0 +1,5 @@
+[wordpress]
+192.168.1.102 ansible_user=vagrant ansible_ssh_private_key_file="/home/luisduarte/workspace/ansible_course/pessoal/private-key"
+
+[database]
+192.168.1.103 ansible_user=vagrant ansible_ssh_private_key_file="/home/luisduarte/workspace/ansible_course/pessoal/private-key"
